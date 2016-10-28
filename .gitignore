@@ -41,3 +41,5 @@ captures/
 
 .idea/
 *.properties
+library/src/main/obj/
+library/src/main/libs/
